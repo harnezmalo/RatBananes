@@ -16,10 +16,10 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 1
-  subSection: 0
-  tabIndex: -1
-  scrollY: 0
+  section: 7
+  subSection: 5
+  tabIndex: 0
+  scrollY: 4020
   foldoutLimit: 
   helpDrag: 220
   subSectionDrag: 250
@@ -29,7 +29,7 @@ MonoBehaviour:
   jumpListDrag: 250
   dataSelectionSorting: 0
   typeDataSelectionSorting: 0
-  createBackup: 1
+  createBackup: 0
   updateSchematics: 1
   schematicUpdateFolder: 
   updatePrefabs: 0
