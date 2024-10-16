@@ -19,7 +19,7 @@ MonoBehaviour:
   section: 9
   subSection: 0
   tabIndex: -1
-  scrollY: 60
+  scrollY: 0
   foldoutLimit: 
   helpDrag: 220
   subSectionDrag: 250
@@ -32,10 +32,11 @@ MonoBehaviour:
   createBackup: 0
   updateSchematics: 1
   schematicUpdateFolder: 
-  updatePrefabs: 0
-  updateScenes: 0
+  updatePrefabs: 1
+  updateScenes: 1
   sceneUpdate: 
-  schematicAsset: []
+  schematicAsset:
+  - {fileID: 11400000, guid: f613d73a630d66c4e9fff50230046e2d, type: 2}
   dialogueImportSettings:
     name: 
     byteData: 
