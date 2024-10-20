@@ -257,7 +257,7 @@ MonoBehaviour:
   startGame: 0
   schematicAsset: {fileID: 0}
   loadStartMenuScene: 0
-  callStartMenu: 1
+  callStartMenu: 0
   callAfter: 0
 --- !u!4 &1681980489
 Transform:
