@@ -16,10 +16,10 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 9
-  subSection: 0
-  tabIndex: -1
-  scrollY: 0
+  section: 7
+  subSection: 6
+  tabIndex: 0
+  scrollY: 548
   foldoutLimit: 
   helpDrag: 220
   subSectionDrag: 250
@@ -36,6 +36,7 @@ MonoBehaviour:
   updateScenes: 1
   sceneUpdate: 01
   schematicAsset:
+<<<<<<< Updated upstream
   - {fileID: 11400000, guid: 7144a6545d079694b8aa61e92e154423, type: 2}
   - {fileID: 11400000, guid: 595b86efdb186e24bbc8ccde04841e08, type: 2}
   - {fileID: 11400000, guid: 6366553f9a7442a429225591885a2ec4, type: 2}
@@ -46,6 +47,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 48356f6bf851efd4ca714b80b4e99331, type: 2}
   - {fileID: 11400000, guid: 53832ed9867afc64fa33d5b02f89f685, type: 2}
   - {fileID: 11400000, guid: 7ce3ecc99356d924c99846b41a8b1313, type: 2}
+=======
+  - {fileID: 11400000, guid: 48356f6bf851efd4ca714b80b4e99331, type: 2}
+  - {fileID: 11400000, guid: 7ce3ecc99356d924c99846b41a8b1313, type: 2}
+  - {fileID: 11400000, guid: 53832ed9867afc64fa33d5b02f89f685, type: 2}
+>>>>>>> Stashed changes
   - {fileID: 11400000, guid: f613d73a630d66c4e9fff50230046e2d, type: 2}
   dialogueImportSettings:
     name: 
