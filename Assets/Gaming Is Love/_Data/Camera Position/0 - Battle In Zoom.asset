@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1495166075, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
-  m_Name: 0 - Default
+  m_Name: 0 - Battle In Zoom
   m_EditorClassIdentifier: 
   data:
     name: settings
