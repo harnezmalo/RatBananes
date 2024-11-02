@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 619879560, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
   m_Name: EditorData
   m_EditorClassIdentifier: 
-  lastProject: {fileID: 0}
+  lastProject: {fileID: 11400000, guid: 0510beeed982e38459c49490872b4374, type: 2}
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 0
+  section: 1
   subSection: 0
-  tabIndex: 0
-  scrollY: 0
-  foldoutLimit: 
+  tabIndex: -1
+  scrollY: 660
+  foldoutLimit: ORK Control Settings
   helpDrag: 220
   subSectionDrag: 250
   tabListDrag: 250
@@ -35,7 +35,8 @@ MonoBehaviour:
   updatePrefabs: 0
   updateScenes: 0
   sceneUpdate: 
-  schematicAsset: []
+  schematicAsset:
+  - {fileID: 11400000, guid: 48356f6bf851efd4ca714b80b4e99331, type: 2}
   dialogueImportSettings:
     name: 
     byteData: 
