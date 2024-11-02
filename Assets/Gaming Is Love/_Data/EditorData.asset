@@ -36,9 +36,16 @@ MonoBehaviour:
   updateScenes: 1
   sceneUpdate: 01
   schematicAsset:
-  - {fileID: 11400000, guid: 7ce3ecc99356d924c99846b41a8b1313, type: 2}
-  - {fileID: 11400000, guid: 53832ed9867afc64fa33d5b02f89f685, type: 2}
+  - {fileID: 11400000, guid: 7144a6545d079694b8aa61e92e154423, type: 2}
+  - {fileID: 11400000, guid: 595b86efdb186e24bbc8ccde04841e08, type: 2}
+  - {fileID: 11400000, guid: 6366553f9a7442a429225591885a2ec4, type: 2}
+  - {fileID: 11400000, guid: c0843ecfcb0810846a6a952910165e0d, type: 2}
+  - {fileID: 11400000, guid: 080b630a5b94f694f9134bd3e3937312, type: 2}
+  - {fileID: 11400000, guid: 5caf5d3d070867d469493906091428fe, type: 2}
+  - {fileID: 11400000, guid: 9dd9f641be50b054e822407640852247, type: 2}
   - {fileID: 11400000, guid: 48356f6bf851efd4ca714b80b4e99331, type: 2}
+  - {fileID: 11400000, guid: 53832ed9867afc64fa33d5b02f89f685, type: 2}
+  - {fileID: 11400000, guid: 7ce3ecc99356d924c99846b41a8b1313, type: 2}
   - {fileID: 11400000, guid: f613d73a630d66c4e9fff50230046e2d, type: 2}
   dialogueImportSettings:
     name: 
@@ -49,7 +56,8 @@ MonoBehaviour:
     encrypted: 0
   variablesDefined: []
   variablesEditor: []
-  variablesSchematic: []
+  variablesSchematic:
+  - ui
   variablesScene: []
   variablesPrefab: []
   foldoutKeys: []
