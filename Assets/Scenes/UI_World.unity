@@ -554,7 +554,7 @@ MonoBehaviour:
     loadType: 0
     loadAsync: 0
   startGame: 1
-  schematicAsset: {fileID: 0}
+  schematicAsset: {fileID: 11400000, guid: f613d73a630d66c4e9fff50230046e2d, type: 2}
   loadStartMenuScene: 0
   callStartMenu: 0
   callAfter: 0
