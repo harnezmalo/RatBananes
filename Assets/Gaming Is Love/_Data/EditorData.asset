@@ -36,6 +36,7 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: 9dd9f641be50b054e822407640852247, type: 2}
   - {fileID: 11400000, guid: 345b5237afc55ae4aab44ecc6d3416d0, type: 2}
   - {fileID: 11400000, guid: 48356f6bf851efd4ca714b80b4e99331, type: 2}
   dialogueImportSettings:
