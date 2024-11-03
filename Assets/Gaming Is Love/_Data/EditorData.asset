@@ -19,8 +19,8 @@ MonoBehaviour:
   section: 7
   subSection: 5
   tabIndex: 3
-  scrollY: 420
-  foldoutLimit: Animations & Movement
+  scrollY: 0
+  foldoutLimit: Battle Settings
   helpDrag: 220
   subSectionDrag: 250
   tabListDrag: 250
