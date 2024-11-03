@@ -1235,9 +1235,9 @@ MonoBehaviour:
 
       <_bool useSceneID="True"
       isGlobalSceneID="False" useAppearingChance="False" appearingChanceFailSetID="False"
-      canEscape="True" setLooks="True" keepAtCenter="False" enablePlayerAdvantage="True"
+      canEscape="False" setLooks="True" keepAtCenter="False" enablePlayerAdvantage="True"
       overridePlayerAdvantageChance="False" enableEnemyAdvantage="True" overrideEnemyAdvantageChance="False"
-      ownStartSchematic="True" ownEndSchematic="False" ownAutoJoin="False" noBattleSetID="False"
+      ownStartSchematic="False" ownEndSchematic="False" ownAutoJoin="False" noBattleSetID="False"
       allGroups="False" useFactionGroups="False" useChanceSelection="False" useCombatantPositionSpots="False"
       ownPlayerSpots="False" ownAllySpots="False" ownEnemySpots="False" />
 
@@ -1247,29 +1247,6 @@ MonoBehaviour:
       ownBattleSystem="False" />
 
       </battleSystem>
-
-      <startSchematicAsset>
-
-      <_string>
-
-      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
-
-      </_string>
-
-      <settings>
-
-      <_string>
-
-      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
-
-      </_string>
-
-      <_asset
-      asset="0" />
-
-      </settings>
-
-      </startSchematicAsset>
 
       <variableChanges>
 
@@ -1311,7 +1288,7 @@ MonoBehaviour:
       </_string>
 
       <_asset
-      asset="1" />
+      asset="0" />
 
       </settings>
 
@@ -1334,7 +1311,7 @@ MonoBehaviour:
       </_string>
 
       <_asset
-      asset="2" />
+      asset="1" />
 
       </settings>
 
@@ -1436,7 +1413,6 @@ MonoBehaviour:
 '
     lookUp:
       assets:
-      - {fileID: 11400000, guid: 345b5237afc55ae4aab44ecc6d3416d0, type: 2}
       - {fileID: 11400000, guid: c441bbf2a5da85b4d80177a6ce49810e, type: 2}
       - {fileID: 11400000, guid: eb754f775649d5248bf1ef87a9f5d66d, type: 2}
     encrypted: 0
