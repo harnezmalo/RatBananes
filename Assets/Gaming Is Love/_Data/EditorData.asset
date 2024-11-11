@@ -19,7 +19,7 @@ MonoBehaviour:
   section: 9
   subSection: 0
   tabIndex: -1
-  scrollY: 0
+  scrollY: 267
   foldoutLimit: 
   helpDrag: 220
   subSectionDrag: 250
@@ -65,6 +65,7 @@ MonoBehaviour:
   - wait
   - PositionJoueur
   - battleScene
+  - counter
   variablesScene: []
   variablesPrefab: []
   foldoutKeys: []
