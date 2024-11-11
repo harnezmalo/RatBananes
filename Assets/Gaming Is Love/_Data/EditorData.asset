@@ -16,10 +16,10 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 8
+  section: 9
   subSection: 0
   tabIndex: -1
-  scrollY: 300
+  scrollY: 0
   foldoutLimit: 
   helpDrag: 220
   subSectionDrag: 250
@@ -36,6 +36,7 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: 3fa7e237dfdec734bb42e9597f9018e5, type: 2}
   - {fileID: 11400000, guid: 5caf5d3d070867d469493906091428fe, type: 2}
   - {fileID: 11400000, guid: 9dd9f641be50b054e822407640852247, type: 2}
   - {fileID: 11400000, guid: 080b630a5b94f694f9134bd3e3937312, type: 2}
