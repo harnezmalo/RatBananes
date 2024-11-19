@@ -49,7 +49,8 @@ MonoBehaviour:
       assets: []
     encrypted: 0
   variablesDefined: []
-  variablesEditor: []
+  variablesEditor:
+  - Repair Air Filter
   variablesSchematic:
   - counter
   variablesScene: []
