@@ -16,16 +16,16 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 7
-  subSection: 5
+  section: 3
+  subSection: 8
   tabIndex: -1
-  scrollY: 14321
+  scrollY: 240
   foldoutLimit: 
   helpDrag: 190
   subSectionDrag: 250
   tabListDrag: 250
   formulaDrag: 250
-  schematicDrag: 410
+  schematicDrag: 200
   jumpListDrag: 250
   dataSelectionSorting: 0
   typeDataSelectionSorting: 0
@@ -36,16 +36,19 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
-  - {fileID: 11400000, guid: efda37f4759846a4f9641129bd012ae0, type: 2}
   - {fileID: 11400000, guid: 48356f6bf851efd4ca714b80b4e99331, type: 2}
-  - {fileID: 11400000, guid: be4d0939248019b4e8bf6dc0a44a6084, type: 2}
+  - {fileID: 11400000, guid: f613d73a630d66c4e9fff50230046e2d, type: 2}
+  - {fileID: 11400000, guid: 345b5237afc55ae4aab44ecc6d3416d0, type: 2}
+  - {fileID: 11400000, guid: 9740cb5b194a69f4daf52b31d6c99bcf, type: 2}
+  - {fileID: 11400000, guid: 1381211640c83054d9aee9bd96050aef, type: 2}
+  - {fileID: 11400000, guid: b73511a54b3d0e14f94587e107ac6a17, type: 2}
+  - {fileID: 11400000, guid: efda37f4759846a4f9641129bd012ae0, type: 2}
   - {fileID: 11400000, guid: 080b630a5b94f694f9134bd3e3937312, type: 2}
+  - {fileID: 11400000, guid: be4d0939248019b4e8bf6dc0a44a6084, type: 2}
   - {fileID: 11400000, guid: 8d3fdafff84ded24f910e0b527a255e3, type: 2}
   - {fileID: 11400000, guid: 3814c672c83939e4f9d120a3c3670f59, type: 2}
-  - {fileID: 11400000, guid: 345b5237afc55ae4aab44ecc6d3416d0, type: 2}
   - {fileID: 11400000, guid: a30ebe752585efa49a91020bbe6f9ba7, type: 2}
   - {fileID: 11400000, guid: 4c4eb301444bcae49bd60a3f7c80be7f, type: 2}
-  - {fileID: 11400000, guid: 9740cb5b194a69f4daf52b31d6c99bcf, type: 2}
   dialogueImportSettings:
     name: 
     byteData: 
@@ -59,6 +62,7 @@ MonoBehaviour:
   variablesSchematic:
   - counter
   - Repair Air Filter
+  - ui
   variablesScene: []
   variablesPrefab: []
   foldoutKeys: []

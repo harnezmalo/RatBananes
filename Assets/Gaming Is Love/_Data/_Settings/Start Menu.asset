@@ -18,7 +18,7 @@ MonoBehaviour:
     xmlData: 
     lookUp:
       assets:
-      - {fileID: 11400000, guid: 48356f6bf851efd4ca714b80b4e99331, type: 2}
+      - {fileID: 11400000, guid: f613d73a630d66c4e9fff50230046e2d, type: 2}
       - {fileID: 11400000, guid: 896d450ec620a3d4db5595dcfd24b0d5, type: 2}
       - {fileID: 1644989310790574446, guid: 723893fb35af8a142aff64070c1d5c30, type: 3}
       - {fileID: 21300000, guid: 8f98af6561d0607428ee6a4c42c9b8b4, type: 3}
