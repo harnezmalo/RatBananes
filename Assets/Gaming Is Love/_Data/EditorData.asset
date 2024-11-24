@@ -16,10 +16,10 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 3
-  subSection: 10
-  tabIndex: 0
-  scrollY: 3815
+  section: 2
+  subSection: 13
+  tabIndex: 4
+  scrollY: 0
   foldoutLimit: 
   helpDrag: 197.60004
   subSectionDrag: 250
@@ -60,9 +60,16 @@ MonoBehaviour:
     lookUp:
       assets: []
     encrypted: 0
-  variablesDefined: []
+  variablesDefined:
+  - Repair Mine
+  - Repair Tree
+  - Repair Arena
+  - Repair Lac
   variablesEditor:
-  - Repair Air Filter
+  - Repair Arena
+  - Repair Lac
+  - Repair Mine
+  - Repair Tree
   variablesSchematic:
   - counter
   - Repair Air Filter
