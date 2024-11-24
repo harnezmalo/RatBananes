@@ -20,5 +20,5 @@ MonoBehaviour:
       assets:
       - {fileID: 11400000, guid: 0b20575371bb4e74284febd8e476ce9a, type: 2}
       - {fileID: 11400000, guid: f3226e746c059f248b5d7dd4f22531ae, type: 2}
-      - {fileID: 11400000, guid: 152f59bd5dd3bd040a18d18c3a3ca107, type: 2}
+      - {fileID: 11400000, guid: 2e2c1d0bd25846c4fb570674c941fba4, type: 2}
     encrypted: 0

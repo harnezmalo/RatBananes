@@ -16,12 +16,12 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 2
-  subSection: 4
-  tabIndex: 3
-  scrollY: 876
+  section: 5
+  subSection: 8
+  tabIndex: 6
+  scrollY: 660
   foldoutLimit: 
-  helpDrag: 80
+  helpDrag: 197.60004
   subSectionDrag: 250
   tabListDrag: 250
   formulaDrag: 250
@@ -36,11 +36,12 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: efda37f4759846a4f9641129bd012ae0, type: 2}
+  - {fileID: 11400000, guid: b7b2dc37ad817754898036f1d06e9f9d, type: 2}
   - {fileID: 11400000, guid: 7144a6545d079694b8aa61e92e154423, type: 2}
   - {fileID: 11400000, guid: 595b86efdb186e24bbc8ccde04841e08, type: 2}
   - {fileID: 11400000, guid: 345b5237afc55ae4aab44ecc6d3416d0, type: 2}
   - {fileID: 11400000, guid: c0843ecfcb0810846a6a952910165e0d, type: 2}
-  - {fileID: 11400000, guid: efda37f4759846a4f9641129bd012ae0, type: 2}
   - {fileID: 11400000, guid: 48356f6bf851efd4ca714b80b4e99331, type: 2}
   - {fileID: 11400000, guid: f613d73a630d66c4e9fff50230046e2d, type: 2}
   - {fileID: 11400000, guid: 9740cb5b194a69f4daf52b31d6c99bcf, type: 2}
@@ -66,6 +67,7 @@ MonoBehaviour:
   - counter
   - Repair Air Filter
   - ui
+  - Bot
   variablesScene: []
   variablesPrefab: []
   foldoutKeys: []
