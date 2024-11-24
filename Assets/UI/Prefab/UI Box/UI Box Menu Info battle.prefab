@@ -114,7 +114,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8744585354729404836, guid: 575b709d99005a84e84c06de5a710828, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -385
+      value: -439
       objectReference: {fileID: 0}
     - target: {fileID: 8744585354729404836, guid: 575b709d99005a84e84c06de5a710828, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -131,6 +131,134 @@ PrefabInstance:
     - target: {fileID: 8744585354729404839, guid: 575b709d99005a84e84c06de5a710828, type: 3}
       propertyPath: m_Name
       value: UI Box Menu Info battle
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744585354729404846, guid: 575b709d99005a84e84c06de5a710828, type: 3}
+      propertyPath: serialize_setting.xmlData
+      value: '<xmldata>
+
+        <_asset contentScrollRect="0" />
+
+        <position
+        layoutAnchor="6" >
+
+        <_bool useAtGameObjectCanvas="True" limitToScreen="False"
+        atCursor="False" followCursor="False" followAtClose="False" />
+
+        <_floatarrays>
+
+        <screenPadding
+        0 0 0 0 />
+
+        <cursorOffset 0 0 />
+
+        </_floatarrays>
+
+        </position>
+
+        <mainContent>
+
+        <_asset
+        mainContent="1" />
+
+        <_subarrays>
+
+        <additionalContent>
+
+        </additionalContent>
+
+        </_subarrays>
+
+        </mainContent>
+
+        <titleContent>
+
+        <_asset
+        mainContent="2" />
+
+        <_subarrays>
+
+        <additionalContent>
+
+        </additionalContent>
+
+        </_subarrays>
+
+        </titleContent>
+
+        <portraitContent>
+
+        <_subarrays>
+
+        <additionalPortrait>
+
+        </additionalPortrait>
+
+        </_subarrays>
+
+        </portraitContent>
+
+        <inputSettings
+        horizontalInputChange="0" verticalInputChange="1" >
+
+        <_bool scrollToCenter="False"
+        />
+
+        <_floatarrays>
+
+        <scrollPadding 0 0 0 0 />
+
+        </_floatarrays>
+
+        <_asset
+        inputParent="3" scrollRect="4" />
+
+        <headerContent>
+
+        <_subarrays>
+
+        <additionalContent>
+
+        </additionalContent>
+
+        </_subarrays>
+
+        </headerContent>
+
+        <_subarrays>
+
+        <placedInputs>
+
+        </placedInputs>
+
+        </_subarrays>
+
+        </inputSettings>
+
+        <tabSettings>
+
+        <_bool
+        scrollToCenter="False" />
+
+        <_floatarrays>
+
+        <scrollPadding
+        0 0 0 0 />
+
+        </_floatarrays>
+
+        <_subarrays>
+
+        <placedTabs>
+
+        </placedTabs>
+
+        </_subarrays>
+
+        </tabSettings>
+
+        </xmldata>
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 8744585355201290763, guid: 575b709d99005a84e84c06de5a710828, type: 3}
       propertyPath: m_AnchorMax.y
