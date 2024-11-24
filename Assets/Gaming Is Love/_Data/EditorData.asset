@@ -36,6 +36,8 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: 4cca6d36b462b7042b0c07a36fe50c70, type: 2}
+  - {fileID: 11400000, guid: c6f263e86b070db43bf11738b6867ac7, type: 2}
   - {fileID: 11400000, guid: efda37f4759846a4f9641129bd012ae0, type: 2}
   - {fileID: 11400000, guid: b7b2dc37ad817754898036f1d06e9f9d, type: 2}
   - {fileID: 11400000, guid: 7144a6545d079694b8aa61e92e154423, type: 2}
@@ -75,6 +77,7 @@ MonoBehaviour:
   - Repair Air Filter
   - ui
   - Bot
+  - Repair Tree
   variablesScene: []
   variablesPrefab: []
   foldoutKeys: []
