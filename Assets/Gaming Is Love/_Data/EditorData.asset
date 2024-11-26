@@ -16,9 +16,9 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 9
-  subSection: 0
-  tabIndex: -1
+  section: 5
+  subSection: 6
+  tabIndex: 5
   scrollY: 0
   foldoutLimit: 
   helpDrag: 197.60004
@@ -70,6 +70,9 @@ MonoBehaviour:
   - Repair Lac
   variablesEditor:
   - Repair Air Filter
+  - Repair Arena
+  - Repair Lac
+  - Repair Tree
   variablesSchematic:
   - counter
   - Repair Air Filter
