@@ -16,11 +16,11 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 2
-  subSection: 13
-  tabIndex: 4
+  section: 9
+  subSection: 0
+  tabIndex: -1
   scrollY: 0
-  foldoutLimit: Activate Requirements
+  foldoutLimit: 
   helpDrag: 197.60004
   subSectionDrag: 250
   tabListDrag: 250
@@ -36,6 +36,7 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: f613d73a630d66c4e9fff50230046e2d, type: 2}
   - {fileID: 11400000, guid: 8d3fdafff84ded24f910e0b527a255e3, type: 2}
   - {fileID: 11400000, guid: 7144a6545d079694b8aa61e92e154423, type: 2}
   - {fileID: 11400000, guid: 4cca6d36b462b7042b0c07a36fe50c70, type: 2}
@@ -48,7 +49,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 345b5237afc55ae4aab44ecc6d3416d0, type: 2}
   - {fileID: 11400000, guid: c0843ecfcb0810846a6a952910165e0d, type: 2}
   - {fileID: 11400000, guid: 48356f6bf851efd4ca714b80b4e99331, type: 2}
-  - {fileID: 11400000, guid: f613d73a630d66c4e9fff50230046e2d, type: 2}
   - {fileID: 11400000, guid: 9740cb5b194a69f4daf52b31d6c99bcf, type: 2}
   - {fileID: 11400000, guid: 1381211640c83054d9aee9bd96050aef, type: 2}
   - {fileID: 11400000, guid: b73511a54b3d0e14f94587e107ac6a17, type: 2}
@@ -69,10 +69,7 @@ MonoBehaviour:
   - Repair Arena
   - Repair Lac
   variablesEditor:
-  - Repair Arena
-  - Repair Lac
-  - Repair Mine
-  - Repair Tree
+  - Repair Air Filter
   variablesSchematic:
   - counter
   - Repair Air Filter
