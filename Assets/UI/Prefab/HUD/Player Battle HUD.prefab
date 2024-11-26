@@ -10,11 +10,11 @@ GameObject:
   m_Component:
   - component: {fileID: 6622474017506447932}
   - component: {fileID: 3632559006612471821}
-  - component: {fileID: 8881728885418833979}
   - component: {fileID: 6858689691579457071}
   - component: {fileID: 7599951643795384372}
   - component: {fileID: 6789451885479742474}
   - component: {fileID: 2876894221724636300}
+  - component: {fileID: 8166722887837560762}
   m_Layer: 5
   m_Name: Player Battle HUD
   m_TagString: Untagged
@@ -107,18 +107,6 @@ MonoBehaviour:
         m_Calls: []
   animationOffset: {x: 0, y: 0, z: 0}
   scaleFactor: {x: 1, y: 1, z: 1}
---- !u!225 &8881728885418833979
-CanvasGroup:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2842000270817210961}
-  m_Enabled: 1
-  m_Alpha: 1
-  m_Interactable: 1
-  m_BlocksRaycasts: 1
-  m_IgnoreParentGroups: 0
 --- !u!114 &6858689691579457071
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -196,6 +184,18 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!225 &8166722887837560762
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2842000270817210961}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &4614816782317877051
 GameObject:
   m_ObjectHideFlags: 0
