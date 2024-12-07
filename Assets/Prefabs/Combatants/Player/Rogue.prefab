@@ -1670,7 +1670,7 @@ MonoBehaviour:
     xmlData: '<xmldata materialIndex="0" >
 
       <_bool setScale="True" useChildRenderer="False"
-      useMaterialIndex="False" onlyCombatantBattle="False" />
+      useMaterialIndex="False" onlyCombatantBattle="True" />
 
       <_floatarrays>
 
