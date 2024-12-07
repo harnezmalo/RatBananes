@@ -46,7 +46,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8744585354729404835, guid: 575b709d99005a84e84c06de5a710828, type: 3}
       propertyPath: m_Color.a
-      value: 0.78431374
+      value: 0.88235295
       objectReference: {fileID: 0}
     - target: {fileID: 8744585354729404836, guid: 575b709d99005a84e84c06de5a710828, type: 3}
       propertyPath: m_Pivot.x
@@ -110,11 +110,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8744585354729404836, guid: 575b709d99005a84e84c06de5a710828, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -139
+      value: -301
       objectReference: {fileID: 0}
     - target: {fileID: 8744585354729404836, guid: 575b709d99005a84e84c06de5a710828, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -439
+      value: -236
       objectReference: {fileID: 0}
     - target: {fileID: 8744585354729404836, guid: 575b709d99005a84e84c06de5a710828, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
