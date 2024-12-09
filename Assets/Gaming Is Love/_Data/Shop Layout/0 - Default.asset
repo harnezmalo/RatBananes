@@ -20,7 +20,7 @@ MonoBehaviour:
       assets:
       - {fileID: 11400000, guid: 896d450ec620a3d4db5595dcfd24b0d5, type: 2}
       - {fileID: 11400000, guid: 056f60299f5562e4fae9a7adbc351d6e, type: 2}
-      - {fileID: 11400000, guid: 896d450ec620a3d4db5595dcfd24b0d5, type: 2}
+      - {fileID: 11400000, guid: d4feda13a03dda043b31f75ecbe92a0c, type: 2}
       - {fileID: 11400000, guid: 28e23c60d4f293341a8d821d9bfd6f8e, type: 2}
       - {fileID: 11400000, guid: 49caebd1fc8c7c5418f3fdfebe33993a, type: 2}
       - {fileID: 11400000, guid: 606c2e7b483532f4c954b1f25432fc84, type: 2}
