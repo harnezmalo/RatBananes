@@ -36,15 +36,16 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
-  - {fileID: 11400000, guid: 8e537fbb7ee68004aa7a5f9d02be02d6, type: 2}
-  - {fileID: 11400000, guid: 79d748fbea12cd546bfce218e7c8529e, type: 2}
-  - {fileID: 11400000, guid: 50dd67c9276e70543bf8d0b51fd4a65d, type: 2}
-  - {fileID: 11400000, guid: 283b4245da2e92146b5cbd7544d46614, type: 2}
-  - {fileID: 11400000, guid: 3988875bd55ed7348a9183e8d3b4941a, type: 2}
+  - {fileID: 11400000, guid: f613d73a630d66c4e9fff50230046e2d, type: 2}
   - {fileID: 11400000, guid: 8d3fdafff84ded24f910e0b527a255e3, type: 2}
+  - {fileID: 11400000, guid: 98814e141855a6941b7496477006c803, type: 2}
+  - {fileID: 11400000, guid: 283b4245da2e92146b5cbd7544d46614, type: 2}
+  - {fileID: 11400000, guid: 79d748fbea12cd546bfce218e7c8529e, type: 2}
+  - {fileID: 11400000, guid: 8e537fbb7ee68004aa7a5f9d02be02d6, type: 2}
+  - {fileID: 11400000, guid: 50dd67c9276e70543bf8d0b51fd4a65d, type: 2}
+  - {fileID: 11400000, guid: 3988875bd55ed7348a9183e8d3b4941a, type: 2}
   - {fileID: 11400000, guid: 3988875bd55ed7348a9183e8d3b4941a, type: 2}
   - {fileID: 11400000, guid: 4cca6d36b462b7042b0c07a36fe50c70, type: 2}
-  - {fileID: 11400000, guid: 98814e141855a6941b7496477006c803, type: 2}
   - {fileID: 11400000, guid: 41452b2ad95dba74e81d15c87c937d4c, type: 2}
   - {fileID: 11400000, guid: 4c4eb301444bcae49bd60a3f7c80be7f, type: 2}
   - {fileID: 11400000, guid: 48356f6bf851efd4ca714b80b4e99331, type: 2}
